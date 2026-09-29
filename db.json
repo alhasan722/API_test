@@ -1,0 +1,165 @@
+{
+  "students": [
+    {
+      "courses": [
+        "C",
+        "C++"
+      ],
+      "phone": "1234567",
+      "name": "alo",
+      "location": "France",
+      "id": "HWZPKPrikJA"
+    },
+    {
+      "courses": [
+        "C",
+        "C++"
+      ],
+      "phone": "1234567",
+      "name": "alo",
+      "location": "France",
+      "id": "cLY6ohaAkH8"
+    },
+    {
+      "courses": [
+        "C",
+        "C++"
+      ],
+      "phone": "1234567",
+      "name": "alo",
+      "location": "France",
+      "id": "wwlfYgURIJo"
+    },
+    {
+      "courses": [
+        "C",
+        "C++"
+      ],
+      "phone": "1234567",
+      "name": "alo",
+      "location": "France",
+      "id": "k3oa7-vEn9o"
+    },
+    {
+      "courses": [
+        "C",
+        "C++"
+      ],
+      "phone": "1234567",
+      "name": "alo",
+      "location": "France",
+      "id": "B4soiLYMDaw"
+    },
+    {
+      "courses": [
+        "C",
+        "C++"
+      ],
+      "phone": "1234567",
+      "name": "alo",
+      "location": "France",
+      "id": "Z5uhHILRBs8"
+    },
+    {
+      "courses": [
+        "C",
+        "C++"
+      ],
+      "phone": "1234567",
+      "name": "alo",
+      "location": "France",
+      "id": "qel5wLn4lM8"
+    },
+    {
+      "courses": [
+        "C",
+        "C++"
+      ],
+      "phone": "1234567",
+      "name": "alo",
+      "location": "France",
+      "id": "YdLzl9UwBk4"
+    },
+    {
+      "courses": [
+        "C",
+        "C++"
+      ],
+      "phone": "1234567",
+      "name": "alo",
+      "location": "France",
+      "id": "vcs9w7vRlX4"
+    },
+    {
+      "courses": [
+        "C",
+        "C++"
+      ],
+      "phone": "1234567",
+      "name": "alo",
+      "location": "France",
+      "id": "va0nipdRkbk"
+    },
+    {
+      "courses": [
+        "C",
+        "C++"
+      ],
+      "phone": "1234567",
+      "name": "ayaan",
+      "location": "irving",
+      "id": "ecqIyrP_6jE"
+    },
+    {
+      "courses": [
+        "java",
+        "python"
+      ],
+      "phone": "1234567",
+      "name": "ayaan",
+      "location": "irving",
+      "id": "serCFs_hY6g"
+    },
+    {
+      "courses": [
+        "java",
+        "python"
+      ],
+      "phone": "1234567",
+      "name": "alo",
+      "location": "irving",
+      "id": "K59xz1JnDs4"
+    },
+    {
+      "courses": [
+        "java",
+        "python"
+      ],
+      "phone": "1234567",
+      "name": "alo",
+      "location": "France",
+      "id": "O8NNCUdCz7Y"
+    },
+    {
+      "courses": [
+        "C",
+        "C++"
+      ],
+      "phone": "1234567",
+      "name": "alo",
+      "location": "France",
+      "id": "kIcaNVCFCMw"
+    },
+    {
+      "courses": [
+        "C",
+        "C++"
+      ],
+      "phone": "1234567",
+      "name": "alo",
+      "location": "France",
+      "id": "5bzWqcypfsU"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
