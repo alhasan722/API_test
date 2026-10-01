@@ -159,6 +159,16 @@
       "name": "alo",
       "location": "France",
       "id": "5bzWqcypfsU"
+    },
+    {
+      "courses": [
+        "C",
+        "C++"
+      ],
+      "phone": "1234567",
+      "name": "alo",
+      "location": "France",
+      "id": "PVW_dL3QYAo"
     }
   ],
   "$schema": "./node_modules/json-server/schema.json"
